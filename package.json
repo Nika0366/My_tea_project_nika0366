@@ -1,0 +1,27 @@
+{
+  "name": "my_tea_project_nika0366",
+  "version": "1.0.0",
+  "description": "Basic demonst application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nika0366/My_tea_project_nika0366.git"
+  },
+  "dependencies": {
+    "mmy_tea_project_nika0366": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "tea_project_vika174": "1.0.0",
+    "my_project_tea_ahara13": "1.0.0",
+    "top_project_tea_abanara": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nika0366/My_tea_project_nika0366/issues"
+  },
+  "homepage": "https://github.com/Nika0366/My_tea_project_nika0366#readme"
+}
